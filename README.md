@@ -1,6 +1,6 @@
 # PiniaApp Demos
 
-### this is a vue app using pinia as state handler, the fetching with axios and tanstack/vue-query, and json server as back-end
+### This is a vue app using pinia as state handler, the fetching with axios and tanstack/vue-query, and json server as back-end
 
 ## Dev
 Steps
